@@ -1,0 +1,13 @@
+
+(AMOD, plumage, brilliant)
+(AMOD, plumage, red)
+(AMOD, crest, unique)
+(AMOD, mask, black)
+(NMOD:ON, face, black mask)
+(AMOD, bill, short)
+(AMOD, bill, cone-shaped)
+(AMOD, shades, grayish)
+(AMOD, wings, duller)
+(AMOD, wings, red)
+(AMOD, tail, duller)
+(AMOD, tail, red)

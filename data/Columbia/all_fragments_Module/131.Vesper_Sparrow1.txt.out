@@ -1,0 +1,28 @@
+(AMOD, upperparts, light)
+(AMOD, upperparts, brown)
+(AMOD, underparts, light)
+(AMOD, ring, white)
+(AMOD, tail, long)
+(AMOD, tail, dark)
+(AMOD, tail, brown)
+(AMOD, feathers, white)
+(AMOD, feathers, outer)
+(NMOD:IN, feathers, flight)
+(AMOD, upperparts, black-streaked)
+(AMOD, upperparts, gray-brown)
+(AMOD, underparts, white)
+(AMOD, breast, black-streaked)
+(AMOD, breast, gray-brown)
+(AMOD, sides, black-streaked)
+(AMOD, sides, gray-brown)
+(AMOD, patch, brown)
+(AMOD, eye-ring, white)
+(NUMMOD, bars, two)
+(AMOD, bars, pale)
+(NSUBJ, gray-brown, wings)
+(AMOD, patches, rufous)
+
+
+
+
+

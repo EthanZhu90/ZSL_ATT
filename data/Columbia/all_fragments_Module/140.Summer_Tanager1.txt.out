@@ -1,0 +1,35 @@
+(AMOD, bills, stout)
+(AMOD, bills, pointed)
+(AMOD, bill, dark)
+(NMOD:ON, underparts, females orangish)
+(NMOD:ON, olive, females orangish)
+(AMOD, wings, olive-brown)
+(AMOD, tail, olive-brown)
+(NSUBJ, clearer, it)
+(NMOD:THAN, clearer, scarlet tanager song)
+
+(AMOD, bill, gray)
+
+(AMOD, upperparts, olive-yellow)
+(AMOD, underparts, dull)
+(AMOD, underparts, yellow)
+
+
+(NMOD:ON, wing, catching)
+
+
+(ADVMOD, bright, entirely)
+(NSUBJ, yellower, immature females)
+(AMOD, yellower, bright)
+(NMOD:ON, head, immature females yellower)
+(NMOD:ON, head, bright yellower)
+(NMOD:ON, underparts, immature females yellower)
+(NMOD:ON, underparts, bright yellower)
+(ADVMOD, greener, slightly)
+(NMOD:ON, back, immature females yellow-green)
+(NMOD:ON, back, bright yellow-green)
+(NMOD:ON, wings, immature females yellow-green)
+(NMOD:ON, wings, bright yellow-green)
+(AMOD, males, immature)
+(NSUBJ, yellow, males)
+(ADVMOD, yellow, patchy)

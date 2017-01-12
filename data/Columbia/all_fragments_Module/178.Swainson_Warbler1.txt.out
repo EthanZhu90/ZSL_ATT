@@ -1,0 +1,13 @@
+(ADVMOD, olive-brown, plain)
+(AMOD, stripe, whitish)
+(NMOD:OF, top, head)
+
+(AMOD, underparts, gray)
+(AMOD, cap, brown)
+(AMOD, eyebrows, white)
+(AMOD, eye-lines, dark)
+(NSUBJ, olive-brown, wings)
+(ADVMOD, olive-brown, plain)
+
+(AMOD, eyestripe, white)
+

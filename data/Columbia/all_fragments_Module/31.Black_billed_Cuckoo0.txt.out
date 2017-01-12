@@ -1,0 +1,10 @@
+(AMOD, tail, long)
+(AMOD, tail, brown)
+(AMOD, bill, black)
+(NSUBJ, white, underparts)
+(AMOD, parts, upper)
+(NSUBJ, brown, upper head)
+(AMOD, ring, red)
+(NMOD:AROUND, ring, eye)
+(NSUBJ, greenish, ring)
+

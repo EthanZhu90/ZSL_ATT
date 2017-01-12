@@ -1,0 +1,30 @@
+(AMOD, upperparts, grey-brown)
+(ADVMOD, streaked, diffusely)
+(NMOD:ON, breast, diffusely streaked)
+(NMOD:ON, flanks, diffusely streaked)
+(NSUBJ, whitish, belly)
+(NSUBJ, dark, bill)
+(AMOD, streaking, black)
+(NMOD:ON, underparts, black streaking)
+(AMOD, hue, reddish)
+(NSUBJ, above, japanese pipit)
+(ADVMOD, above, darker)
+
+
+(AMOD, upperparts, gray-brown)
+(AMOD, buff, pale)
+(NSUBJ, faintly, breast)
+(NSUBJ, dark, tail)
+(AMOD, edges, white)
+(NSUBJ, thin, black bill)
+(NSUBJ, black, legs)
+(NSUBJ, bird, pipit)
+(AMOD, bird, small)
+(AMOD, bird, slender)
+(AMOD, bird, drab)
+(NMOD:OF, bird, open country)
+(NSUBJ, distinguished, it)
+(NMOD:BY, distinguished, thin bill)
+
+
+

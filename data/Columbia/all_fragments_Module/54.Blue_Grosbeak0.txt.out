@@ -1,0 +1,10 @@
+
+
+(AMOD, bars, double)
+(NSUBJ, distinguished, sexes)
+(NMOD:BY, distinguished, large bill)
+(NMOD:BY, distinguished, deep bill)
+(NUMMOD, cm, 19)
+(NSUBJ, cm, wingspan)
+(NUMMOD, cm, 29)
+

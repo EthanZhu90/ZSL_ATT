@@ -1,0 +1,28 @@
+(AMOD, upperparts, brownish)
+(NMOD:ON, crown, grey)
+(NMOD:ON, nape, grey)
+(AMOD, buff, grayish)
+(AMOD, streaks, dark)
+(AMOD, face, dark)
+(AMOD, cheeks, grey)
+(AMOD, throat, white)
+(AMOD, tail, short)
+(AMOD, tail, pointed)
+(ADVMOD, eye, just)
+(AMOD, streak, small)
+(AMOD, streak, yellow)
+
+(AMOD, upperparts, olive-gray)
+(AMOD, underparts, pale)
+(NMOD:ON, breast, streaks)
+(AMOD, streak, yellow)
+(NMOD:BETWEEN, streak, eye)
+(AMOD, bill, long)
+(AMOD, base, thick)
+
+(AMOD, tail, short)
+(AMOD, bill, large)
+
+
+
+(AMOD, whisker, black)

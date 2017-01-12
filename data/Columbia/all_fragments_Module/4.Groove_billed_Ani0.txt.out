@@ -1,0 +1,14 @@
+(AMOD, tail, long)
+(AMOD, beak, large)
+(AMOD, beak, curved)
+
+(NSUBJ, black, it)
+(ADVMOD, black, completely)
+(AMOD, tail, very long)
+(ADVMOD, tail, as long almost)
+(ADVMOD, tail, body almost)
+(AMOD, bill, huge)
+(AMOD, grooves, horizontal)
+(NMOD:ALONG, grooves, upper mandible length)
+
+

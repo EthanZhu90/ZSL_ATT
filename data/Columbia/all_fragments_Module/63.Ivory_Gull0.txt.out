@@ -1,0 +1,13 @@
+(NUMMOD, cm, 43)
+(AMOD, back, grey)
+(NMOD:OF, back, other gulls)
+(AMOD, plumage, completely white)
+(AMOD, tip, yellow)
+(NSUBJ, black, legs)
+(NSUBJ, blue, thick bill)
+(AMOD, face, dusky)
+(AMOD, amounts, variable)
+(NMOD:OF, amounts, black flecking)
+(NMOD:OF, amounts, wings flecking)
+
+

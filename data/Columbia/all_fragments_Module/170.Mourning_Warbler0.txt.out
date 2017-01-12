@@ -1,0 +1,12 @@
+(AMOD, underparts, yellow)
+(AMOD, upperparts, olive-green)
+(AMOD, legs, pink)
+(NUMMOD, birds, 13)
+(AMOD, birds, cm)
+(AMOD, birds, long)
+(AMOD, patch, black)
+(NMOD:ON, throat, black patch)
+(NMOD:ON, breast, black patch)
+(NMOD:ON, head, females grey-brown)
+(AMOD, repetitive, bright)
+

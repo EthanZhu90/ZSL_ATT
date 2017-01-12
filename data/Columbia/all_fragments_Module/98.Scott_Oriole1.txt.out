@@ -1,0 +1,38 @@
+(AMOD, hood, black)
+(NSUBJ, yellow, belly)
+(AMOD, yellow, bright)
+(NSUBJ, black, wings)
+(NUMMOD, bars, two)
+(AMOD, bars, white)
+(AMOD, patches, yellow)
+(NSUBJ, yellow, tail)
+(AMOD, tip, thick)
+(AMOD, tip, black)
+
+(AMOD, scott, black)
+(NSUBJ, bird, brilliant yellow)
+(NMOD:OF, bird, hillsides)
+
+(AMOD, tail, long)
+(ADVMOD, thin, rather)
+(NUMMOD, wingbars, two)
+(AMOD, wing, dark)
+(NMOD:ON, wing, two wingbars)
+(AMOD, yellow, male)
+(AMOD, yellow, lemon)
+(AMOD, head, black)
+(AMOD, chest, black)
+
+(AMOD, yellow, lemon)
+(AMOD, bases, yellow)
+(NMOD:ON, head, black spots amount)
+(NMOD:ON, head, back amount)
+(NMOD:OF, throat, black spots)
+(ADVMOD, throat, back)
+
+
+(NUMMOD, wingbars, two)
+(AMOD, wingbars, whitish)
+(AMOD, olive, tail)
+(NMOD:AT, yellowish, base)
+

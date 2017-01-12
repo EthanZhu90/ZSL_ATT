@@ -1,0 +1,25 @@
+(AMOD, tail, squared)
+(NSUBJ, distinguished, it)
+(ADVMOD, distinguished, also)
+(NMOD:FROM, distinguished, raven)
+(NMOD:BY, distinguished, smaller bill)
+(NMOD:BY, distinguished, more curved bill)
+(NMOD:BY, distinguished, parallel bill bill)
+(NMOD:BY, distinguished, raven bill bill)
+
+
+(AMOD, feathers, iridescent)
+(AMOD, feathers, black)
+(NSUBJ, black, legs)
+(ADVMOD, black, also)
+(NUMMOD, cm, 50)
+(NMOD:IN, cm, length)
+(NUMMOD, cm, 34)
+(NSUBJ, cm, length)
+(NUMMOD, cm, 5)
+
+
+(ADVMOD, hook, also)
+(AMOD, hook, small)
+(AMOD, hook, sharp)
+(NMOD:AT, hook, upper bill end)

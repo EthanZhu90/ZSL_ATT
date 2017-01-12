@@ -1,0 +1,36 @@
+
+(AMOD, neck, long)
+(AMOD, neck, slender)
+(AMOD, neck, swan-like)
+(AMOD, eyes, red)
+(AMOD, eyes, straight)
+(AMOD, bill, straight)
+(NMOD:AROUND, white, up-turned eyes)
+(NMOD:AROUND, white, bright eyes)
+(NMOD:AROUND, white, yellow eyes)
+(AMOD, bill, up-turned)
+(AMOD, bill, bright)
+(AMOD, bill, yellow)
+(AMOD, upperparts, dark)
+(AMOD, upperparts, gray)
+(AMOD, underparts, white)
+(AMOD, sides, gray)
+(AMOD, flanks, dark)
+(AMOD, flanks, gray)
+(NSUBJ, white, lower face)
+(NSUBJ, white, neck face)
+(AMOD, cap, black)
+(NSUBJ, black, neck back)
+(NSUBJ, red, eyes)
+(NSUBJ, thin, bill)
+(NSUBJ, long, bill)
+(AMOD, olive-yellow, dull)
+(NSUBJ, gray, birds)
+(NSUBJ, overall, juveniles)
+(AMOD, overall, light gray)
+
+
+
+
+
+(AMOD, neck, long)

@@ -1,0 +1,45 @@
+(AMOD, eyes, red)
+(NSUBJ, long, male cowbird)
+(NMOD:NPMOD, long, 20 cm)
+(AMOD, plumage, green-bronze)
+(AMOD, plumage, glossed)
+(AMOD, plumage, black)
+(NSUBJ, long, female)
+(NMOD:NPMOD, long, 18.5 cm)
+(NUMMOD, g, 56)
+(NSUBJ, black, she)
+(AMOD, black, duller)
+(AMOD, black, above)
+(ADVMOD, black, below)
+
+(AMOD, sheen, blue)
+(NMOD:ON, wings, blue sheen)
+(NMOD:ON, tail, blue sheen)
+(NSUBJ, dark, bill)
+(NSUBJ, red, eyes)
+(AMOD, wing, rapid)
+
+(AMOD, tail, medium-long)
+
+(AMOD, black, male)
+(AMOD, black, shiny)
+(AMOD, eyes, red)
+(AMOD, gray-brown, dull)
+
+(NMOD:ON, back, bronzy iridescence)
+(NMOD:ON, rump, bronzy iridescence)
+(NMOD:ON, ruff, feathers)
+(NMOD:ON, neck, feathers)
+
+(AMOD, eyes, brownish orange red)
+(AMOD, eyes, nonbreeding season orange red)
+
+(AMOD, brown, black)
+
+
+(AMOD, streaks, indistinct)
+(AMOD, streaks, dark)
+(NMOD:ON, breast, indistinct streaks)
+(NMOD:ON, breast, dark streaks)
+(NMOD:ON, belly, indistinct streaks)
+(NMOD:ON, belly, dark streaks)

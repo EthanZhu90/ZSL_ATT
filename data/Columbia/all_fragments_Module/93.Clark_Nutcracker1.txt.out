@@ -1,0 +1,22 @@
+(NSUBJ, smaller, it)
+(ADVMOD, smaller, slightly)
+(NMOD:THAN, smaller, eurasian relative)
+(NSUBJ, ashy-grey, it)
+(ADVMOD, ashy-grey, over)
+(NMOD:EXCEPT_FOR, ashy-grey, black-and-white wings)
+(NSUBJ, black, bill)
+(ADVMOD, black, also)
+(AMOD, head, pale gray)
+(NSUBJ, stout, black bill)
+(NSUBJ, long, black bill)
+
+
+
+(NSUBJ, long, bill)
+(AMOD, wings, black)
+(NSUBJ, birds, nutcrackers)
+(AMOD, birds, pale)
+(AMOD, birds, gray)
+(AMOD, patches, large)
+(AMOD, patches, white)
+(NMOD:ALONG, patches, edges)

@@ -1,0 +1,27 @@
+(AMOD, upperparts, greyish-olive)
+(AMOD, darker, greyish-olive)
+(NMOD:ON, wings, greyish-olive darker)
+(AMOD, tail, greyish-olive)
+(AMOD, underparts, whitish)
+(AMOD, ring, conspicuous)
+(AMOD, ring, white)
+(AMOD, bars, white)
+(AMOD, bill, small)
+(AMOD, bill, short)
+(AMOD, tail, short)
+(AMOD, sides, grey)
+(NMOD:OF, sides, belly)
+
+(AMOD, upperparts, olive-gray)
+(AMOD, breast, gray)
+(AMOD, belly, pale)
+(AMOD, belly, yellow)
+(NSUBJ, white, eye-ring)
+(AMOD, mandible, lower)
+(AMOD, tip, dark)
+
+
+
+
+(AMOD, wingbars, white)
+

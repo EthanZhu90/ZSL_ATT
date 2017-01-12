@@ -1,0 +1,17 @@
+
+(AMOD, underparts, over)
+(AMOD, underparts, grey)
+(AMOD, white, pure)
+(AMOD, greyish-brown, dull)
+
+(AMOD, eyebrow, faint)
+(AMOD, bill, long)
+(AMOD, bill, thin)
+(AMOD, mandible, blackish)
+(AMOD, mandible, upper)
+(AMOD, yellowish, black-tipped)
+(AMOD, mandible, pale grey)
+(AMOD, mandible, lower)
+(AMOD, eye-ring, faint)
+(NSUBJ, pinkish, legs)
+(AMOD, tail, short)

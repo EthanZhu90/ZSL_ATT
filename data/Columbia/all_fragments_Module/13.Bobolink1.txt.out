@@ -1,0 +1,37 @@
+
+(NSUBJ, black, adult males)
+(ADVMOD, black, mostly)
+(AMOD, scapulars, white)
+(AMOD, streaks, black)
+(NMOD:ON, back, black streaks)
+(NMOD:ON, flanks, black streaks)
+(AMOD, stripes, dark)
+(NMOD:ON, head, dark stripes)
+(NSUBJ, darker, wings)
+(NSUBJ, brown, adult females)
+(ADVMOD, brown, mostly)
+(AMOD, brown, light)
+(AMOD, nape, white)
+(AMOD, rump, white)
+(AMOD, patches, white)
+
+(NSUBJ, pointed, tail feathers)
+(ADVMOD, pointed, sharply)
+
+
+(AMOD, back, white)
+(AMOD, underparts, black)
+
+
+
+(AMOD, bill, similar shaped)
+(AMOD, bill, sharply pointed)
+(NSUBJ, black, male bobolinks)
+(ADVMOD, black, mostly)
+(AMOD, back, white)
+(AMOD, rump, white)
+(AMOD, nape, rich buffy)
+(NMOD:ON, back, streaked)
+(NSUBJ, warm, females)
+(ADVMOD, warm, buffy)
+(AMOD, brown, dark)

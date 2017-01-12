@@ -1,0 +1,10 @@
+(NSUBJ, long, black-necked grebe)
+(NMOD:NPMOD, long, 2834 centimetres)
+(AMOD, head, black)
+(AMOD, neck, black)
+(AMOD, tufts, yellow)
+(NMOD:IN, white, winter)
+(NSUBJ, white, small grebe)
+(AMOD, cap, poorly defined)
+(AMOD, cap, black)
+

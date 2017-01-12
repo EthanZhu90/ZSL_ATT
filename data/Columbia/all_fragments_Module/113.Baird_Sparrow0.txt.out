@@ -1,0 +1,13 @@
+(AMOD, bill, large)
+(AMOD, head, large)
+(AMOD, head, flat)
+(AMOD, tail, short)
+(AMOD, tail, forked)
+(AMOD, underparts, white)
+(NMOD:ON, back, streaking)
+(NMOD:ON, breast, streaking)
+(NMOD:ON, flanks, streaking)
+(AMOD, parts, brown)
+(AMOD, parts, upper)
+(NSUBJ, yellowish, face)
+

@@ -1,0 +1,14 @@
+
+(NSUBJ, pointed, bill)
+(NSUBJ, black, bill)
+(NMOD:AT, blue-gray, lower mandible base)
+(NMOD:OF, rest, plumage black)
+
+(AMOD, yellowish, upper)
+(NMOD:ON, yellowish, adult female olive-green)
+(NMOD:ON, breast, adult female olive-green)
+(NMOD:ON, belly, adult female olive-green)
+(AMOD, parts, upper)
+(NMOD:ON, parts, adult female olive-green)
+(AMOD, bars, white)
+(AMOD, bib, black)

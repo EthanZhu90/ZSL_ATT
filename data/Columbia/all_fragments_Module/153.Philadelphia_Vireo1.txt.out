@@ -1,0 +1,28 @@
+(NMOD:ON, upperparts, adults olive-brown)
+(NMOD:ON, upperparts, mainly olive-brown)
+(AMOD, underparts, yellow)
+(AMOD, eyes, dark)
+(AMOD, crown, grey)
+(AMOD, eyes, white)
+(AMOD, stripe, white)
+(AMOD, line, dark)
+(AMOD, legs, thick)
+(AMOD, legs, blue-grey)
+(AMOD, bill, stout)
+(AMOD, underparts, yellow)
+(AMOD, cap, gray)
+(AMOD, eyes, dark)
+(AMOD, eye-line, white-bordered)
+(AMOD, eye-line, black)
+(NSUBJ, olive-green, wings)
+(AMOD, wing-bars, very faint)
+(NSUBJ, yellow, coverts)
+
+
+
+(NMOD:ON, throat, palest)
+(NMOD:ON, breast, deepest)
+
+(NMOD:OF, front, eye)
+(AMOD, spots, tail)
+

@@ -1,0 +1,23 @@
+(AMOD, upperparts, brownish-olive)
+(AMOD, darker, brownish-olive)
+(NMOD:ON, wings, brownish-olive darker)
+(AMOD, tail, brownish-olive)
+(AMOD, underparts, yellowish)
+(AMOD, ring, white)
+(AMOD, bars, white)
+(AMOD, bill, small)
+(AMOD, tail, short)
+(NSUBJ, dark, upper part)
+(NSUBJ, dark, bill part)
+
+
+(AMOD, upperparts, olive-green)
+(AMOD, underparts, yellow)
+(NMOD:ON, breast, small flycatcher wash)
+(NSUBJ, yellow, spectacles)
+(AMOD, yellow, pale)
+
+
+(AMOD, underparts, yellow)
+(AMOD, head, large)
+

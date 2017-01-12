@@ -1,0 +1,15 @@
+
+(AMOD, bills, pale stout)
+(AMOD, bills, smooth)
+(AMOD, wings, black)
+(AMOD, tail, black)
+(NSUBJ, yellowish, females)
+(NMOD:ON, underparts, females yellowish)
+(NMOD:ON, olive, females yellowish)
+(AMOD, wings, olive-brown)
+(AMOD, tail, olive-brown)
+(NSUBJ, red, adult males)
+(AMOD, red, bright)
+
+(AMOD, variegated, more complex)
+(AMOD, variegated, plumage intermediate)

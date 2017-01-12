@@ -1,0 +1,17 @@
+(NMOD:THROUGHOUT, gray, year)
+(NSUBJ, gray, adults)
+(ADVMOD, gray, below)
+(AMOD, cap, persimmon-red)
+(AMOD, supercilium, nearly white)
+(AMOD, line, black)
+(AMOD, line, trans-ocular)
+(AMOD, cap, brownish)
+(AMOD, eyebrow, dusky)
+(AMOD, eye-line, dark)
+
+(AMOD, eye-line, dark)
+(NMOD:BEHIND, front, eye)
+(NSUBJ, obscure, cap)
+(ADVMOD, obscure, generally)
+(NMOD:IN, obscure, juveniles)
+

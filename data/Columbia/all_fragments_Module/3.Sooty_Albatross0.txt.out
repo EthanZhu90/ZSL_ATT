@@ -1,0 +1,15 @@
+(AMOD, passages, nasal)
+(AMOD, bill, upper)
+(NSUBJ, sides, nostrils)
+(NMOD:OF, sides, bill)
+(AMOD, wingspan, 2m)
+
+(AMOD, shading, darker)
+(NMOD:OF, sides, head)
+(NMOD:ON, sides, darker shading)
+(AMOD, crescent, white)
+(NSUBJ, black, bill)
+(AMOD, sulcus, yellow)
+(NSUBJ, diamond, albatross tail)
+(AMOD, diamond, wide)
+

@@ -1,0 +1,20 @@
+(AMOD, upperparts, dark-streaked)
+(AMOD, upperparts, brown)
+(AMOD, underparts, white)
+(AMOD, sides, dark-streaked)
+(AMOD, crown, stark)
+(AMOD, crown, black)
+(AMOD, face, stark)
+(AMOD, face, black)
+(AMOD, throat, stark)
+(AMOD, throat, black)
+(AMOD, line, thin)
+(AMOD, line, black)
+(NSUBJ, pink, bill)
+
+
+
+
+(AMOD, underparts, white)
+(AMOD, streaks, black)
+(AMOD, wingbars, white)

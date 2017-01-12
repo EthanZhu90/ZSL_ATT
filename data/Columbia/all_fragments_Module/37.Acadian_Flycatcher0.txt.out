@@ -1,0 +1,15 @@
+(AMOD, upperparts, olive)
+(AMOD, darker, olive)
+(NMOD:ON, wings, olive darker)
+(AMOD, tail, olive)
+(AMOD, underparts, whitish)
+(AMOD, ring, white)
+(AMOD, bars, white)
+(AMOD, bill, wide)
+
+(NSUBJ, dark, upper part)
+(NSUBJ, dark, bill part)
+(NSUBJ, yellowish, lower part)
+
+
+

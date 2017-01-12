@@ -1,0 +1,23 @@
+(AMOD, underparts, white)
+(AMOD, throat, black)
+(AMOD, face, black)
+(AMOD, flanks, black)
+(AMOD, upperparts, more greenish)
+(NSUBJ, blue, upperparts)
+(ADVMOD, blue, deep)
+(AMOD, males, immature)
+(AMOD, upperparts, olive-brown)
+(AMOD, underparts, light)
+(AMOD, underparts, yellow)
+(AMOD, wings, darker)
+(AMOD, tail, darker)
+(AMOD, crown, grey)
+(AMOD, patch, brown)
+(NMOD:ON, cheek, females have)
+(AMOD, patch, small)
+(AMOD, patch, white)
+(AMOD, bill, thin)
+(AMOD, bill, pointed)
+
+
+

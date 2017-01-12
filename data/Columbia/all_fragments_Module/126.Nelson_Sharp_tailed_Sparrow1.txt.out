@@ -1,0 +1,29 @@
+(AMOD, upperparts, brownish)
+(NMOD:ON, crown, cream-coloured grey)
+(NMOD:ON, nape, cream-coloured grey)
+(AMOD, breast, cream-coloured)
+(AMOD, throat, white)
+(AMOD, belly, white)
+(AMOD, face, orange)
+(AMOD, cheeks, grey)
+(AMOD, tail, short)
+(AMOD, tail, pointed)
+
+(AMOD, streaked, brown)
+(NSUBJ, pale, breast)
+(NMOD:TMOD, pale, brown)
+(AMOD, streaks, pale)
+(NSUBJ, white, belly)
+(AMOD, crown, gray-brown)
+(AMOD, nape, gray-brown)
+(AMOD, face, orange-brown)
+(AMOD, cheeks, gray)
+(NSUBJ, pointed, tail)
+(NSUBJ, short, tail)
+
+(AMOD, face, brightly-colored)
+
+
+
+(NMOD:ON, breast, smudgy streaks)
+(NMOD:ON, flanks, smudgy streaks)

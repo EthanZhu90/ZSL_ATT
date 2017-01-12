@@ -1,0 +1,24 @@
+(NMOD:OF, length, about .5 inches)
+(AMOD, gray, pale)
+(NMOD, gray, above)
+(AMOD, throat, black)
+(AMOD, pattern.immature, distinctive)
+(AMOD, pattern.immature, black)
+(NUMMOD, eggs, 3-4)
+(AMOD, eggs, white)
+(AMOD, upperparts, gray-brown)
+(AMOD, underparts, white)
+(AMOD, bib, black)
+(AMOD, cap, dark)
+(AMOD, cap, gray)
+(AMOD, eyebrow, sharply contrasting)
+(AMOD, eyebrow, white)
+(AMOD, stripe, sharply contrasting)
+(AMOD, stripe, white)
+(NSUBJ, black, bill)
+(AMOD, tail, round-tipped)
+
+
+
+
+

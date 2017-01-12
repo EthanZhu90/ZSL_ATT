@@ -1,0 +1,11 @@
+(NSUBJ, long, warbler)
+(NMOD:NPMOD, long, 11.5 cm)
+
+(NSUBJ, gray, head)
+(AMOD, supercilium, white)
+(AMOD, stripe, black)
+(NSUBJ, duller, females)
+(AMOD, head, less contrasted)
+(ADVMOD, yellow, particularly)
+(ADVMOD, yellow, below)
+

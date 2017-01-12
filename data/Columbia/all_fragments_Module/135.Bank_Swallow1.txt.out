@@ -1,0 +1,28 @@
+(NUMMOD, cm, 12)
+(AMOD, band, narrow)
+(AMOD, band, brown)
+(NMOD:ON, breast, narrow band)
+(NMOD:ON, breast, brown band)
+(NSUBJ, black, bill)
+(AMOD, tips, rufous)
+(NMOD:TO, coverts, secondaries)
+(NMOD:TO, margins, secondaries)
+(AMOD, upperparts, paler)
+(AMOD, upperparts, grey-brown)
+(AMOD, band, less distinct)
+
+(AMOD, upperparts, brown)
+(AMOD, band, brown)
+(AMOD, underparts, white)
+(AMOD, throat, white)
+(AMOD, chin, white)
+(NSUBJ, notched, tail)
+
+
+
+(AMOD, slender, small)
+
+(AMOD, band, dark)
+(NMOD:ACROSS, band, chest)
+(NMOD:OF, middle, chest)
+(AMOD, bill, small)

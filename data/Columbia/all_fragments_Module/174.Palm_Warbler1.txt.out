@@ -1,0 +1,20 @@
+(AMOD, underparts, thoroughly yellow)
+(AMOD, breast, bold)
+(AMOD, streaking, bold)
+(AMOD, parts, brownish-olive)
+(AMOD, parts, upper)
+(AMOD, streaking, less colorful)
+(AMOD, parts, much yellow)
+(AMOD, parts, less yellow)
+(AMOD, parts, upper)
+
+(AMOD, upperparts, olive-brown)
+(AMOD, underparts, yellow)
+(NSUBJ, chestnut-brown, cap)
+(AMOD, belly, white)
+
+
+(AMOD, yellow, bright)
+
+(NMOD:ON, sides, streaks)
+

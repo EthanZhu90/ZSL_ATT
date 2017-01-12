@@ -1,0 +1,27 @@
+(NSUBJ, yellow, bill)
+(NMOD:AT, yellow, tip base)
+(AMOD, horn, small)
+(AMOD, horn, fleshy)
+(AMOD, horn, black)
+(NMOD:ABOVE, horn, eyes)
+(AMOD, face, white)
+(NMOD:OF, back, eye)
+(AMOD, line, dark)
+(AMOD, upperparts, black)
+(AMOD, underparts, white)
+(AMOD, horn, black)
+(AMOD, horn, fleshy)
+(NMOD:ABOVE, horn, eye)
+(NSUBJ, triangular, bill)
+(NMOD:DURING, triangular, summer)
+(ADVMOD, yellow, when)
+(NSUBJ, yellow, it)
+(AMOD, yellow, bright)
+(AMOD, tip, orange)
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+(ADVMOD, measure, usually)
+(NMOD:BETWEEN, measure, 17)
+(NUMMOD, cm, 21)
+(NMOD:IN, cm, length)
+(NMOD:OF, wingspan, around 34 cm)
+
+(NSUBJ, brownish, adults)
+(NMOD:ON, upperparts, adults brownish)
+(AMOD, underparts, yellow)
+(AMOD, tail, long)
+(AMOD, tail, rusty)
+(AMOD, tail, brown)
+(AMOD, crest, bushy)
+(NSUBJ, grey, throat)
+

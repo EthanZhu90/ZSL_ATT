@@ -1,0 +1,33 @@
+(AMOD, underparts, yellow)
+(AMOD, upperparts, blue-grey)
+(AMOD, legs, pink)
+(AMOD, eye-rings, yellow)
+(AMOD, bills, thin)
+(AMOD, bills, pointed)
+(AMOD, foreheads, black)
+(AMOD, necklaces, black)
+(AMOD, necklaces, faint)
+(AMOD, necklaces, grey)
+(AMOD, upperparts, slate-gray)
+(AMOD, underparts, bright)
+(AMOD, underparts, yellow)
+(AMOD, necklace, black-streaked)
+(AMOD, vent, white)
+(NSUBJ, yellow, eye-ring)
+(NSUBJ, gray, bill)
+
+(AMOD, wing, quick)
+(AMOD, wing, fluttering)
+
+
+(NMOD:OF, necklace, dark streaks)
+(NMOD:ACROSS, necklace, chest)
+
+
+(AMOD, line, yellow)
+(NMOD:IN, line, front)
+(NMOD:OF, line, eyes)
+
+(AMOD, streaking, less)
+(AMOD, streaking, distinct)
+(AMOD, pattern, facial)

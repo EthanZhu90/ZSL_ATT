@@ -1,0 +1,12 @@
+
+(AMOD, throat, white)
+(AMOD, breast, dirty)
+(AMOD, breast, gray)
+(AMOD, underparts, buffish)
+(NMOD:ON, wing, two bars present)
+(NMOD:ON, wing, indistinct bars present)
+(AMOD, bill, all dark)
+(NMOD:OF, lack, ring)
+(AMOD, parts, lighter)
+(NMOD:OF, parts, plumage)
+(NMOD:ON, parts, present)

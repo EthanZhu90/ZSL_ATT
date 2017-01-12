@@ -1,0 +1,12 @@
+
+(AMOD, underparts, brownish)
+(AMOD, patterning, brown)
+(NMOD:ON, head, brown patterning)
+(NMOD:ON, chest, brown patterning)
+(NMOD:OF, gray, more common cousin)
+(NMOD:OF, black, more common cousin)
+(AMOD, tail, outer)
+(NMOD:ON, tail, white)
+(NUMMOD, wingspan, 25)
+(AMOD, bill, short)
+(AMOD, tail, long)

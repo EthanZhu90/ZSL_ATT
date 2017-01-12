@@ -1,0 +1,18 @@
+(NMOD:ON, upperparts, adults gray-olive)
+(AMOD, underparts, light)
+(NMOD:ON, breast, olive)
+(NUMMOD, bars, two)
+(AMOD, bill, dark)
+(NMOD:OF, base, lower mandible)
+(AMOD, underparts, olive-gray)
+(AMOD, olive-gray, dull)
+(AMOD, cap, darker)
+(AMOD, crest, slight)
+
+
+
+
+(AMOD, wash, darker)
+(NMOD:ON, breast, darker wash)
+(NMOD:ON, sides, darker wash)
+

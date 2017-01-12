@@ -1,0 +1,33 @@
+
+(NSUBJ, olive, adults)
+(AMOD, olive, dark)
+(NMOD:ON, face, adults olive)
+(NMOD:ON, face, dark olive)
+(NMOD:ON, upperparts, adults olive)
+(NMOD:ON, upperparts, dark olive)
+(NMOD:ON, flanks, adults olive)
+(NMOD:ON, flanks, dark olive)
+(AMOD, underparts, light)
+(AMOD, bill, large)
+(AMOD, bill, dark)
+(AMOD, tail, short)
+
+
+(AMOD, upperparts, dark)
+(AMOD, upperparts, olive-brown)
+(AMOD, sides, olive-brown)
+(AMOD, underparts, white)
+(AMOD, crest, slight)
+(AMOD, eye-ring, faint)
+(AMOD, eye-ring, white)
+(NSUBJ, dark, wings)
+(NUMMOD, bars, two)
+(AMOD, bars, pale)
+(ADVMOD, notched, slightly)
+(NSUBJ, short, dark tail)
+(ADVMOD, short, relatively)
+
+
+(AMOD, flycatcher, stocky)
+(AMOD, head, large)
+(AMOD, tail, short)

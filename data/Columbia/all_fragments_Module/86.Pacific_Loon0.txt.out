@@ -1,0 +1,10 @@
+
+(AMOD, head, grey)
+(AMOD, throat, black)
+(AMOD, underparts, white)
+(AMOD, mantle, chequered)
+(AMOD, mantle, black-and-white)
+
+(NSUBJ, whitish, bill)
+(NMOD:OF, lack, white patch)
+
