@@ -1,7 +1,8 @@
 # ZSL_ATT
 
-This project is Zero Shot Learning with Attention model. 
+Zero Shot Learning with Attention model. 
 
+This project is `ongoing`. 
 
 So far, three baselines have been created. 
 
